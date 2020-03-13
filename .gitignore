@@ -4,6 +4,10 @@
 # Created by https://www.gitignore.io/api/windows,visualstudiocode,audio,c,c++,docz,jetbrains,latex,python,video
 # Edit at https://www.gitignore.io/?templates=windows,visualstudiocode,audio,c,c++,docz,jetbrains,latex,python,video
 
+
+*.ppt
+*.pptx
+kaldi/
 ### Audio ###
 *.aif
 *.iff
@@ -607,6 +611,3 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/windows,visualstudiocode,audio,c,c++,docz,jetbrains,latex,python,video
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
-
-*.ppt
-*.pptx
