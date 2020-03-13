@@ -51,8 +51,6 @@
         "CheckFileChange": false
     },
     "fileheader.customMade": {
-        //"Description": "",
-        //"version": "",
         "Github":"https://github.com/Certseeds",
         "Organization": "SUSTech",
         "Author": "nanoseeds",
