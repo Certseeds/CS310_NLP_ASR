@@ -65,7 +65,7 @@ void MfccComputer::Compute(BaseFloat signal_raw_log_energy,
     if (opts_.energy_floor > 0.0 && signal_raw_log_energy < log_energy_floor_)
       signal_raw_log_energy = log_energy_floor_;
     (*feature)(0) = signal_raw_log_energy;
-  }
+  } 
 
   if (opts_.htk_compat) {
     BaseFloat energy = (*feature)(0);
