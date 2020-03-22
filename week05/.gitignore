@@ -1,0 +1,39 @@
+### 
+## @Github: https://github.com/Certseeds/CS310_NLP_ASR
+## @Organization: SUSTech
+## @Author: nanoseeds
+## @Date: 2020-03-22 11:12:18
+## @LastEditors: nanoseeds
+## @LastEditTime: 2020-03-22 16:59:13
+### 
+# Created by https://www.gitignore.io/api/video,audio
+# Edit at https://www.gitignore.io/?templates=video,audio
+# .gitignore for kaidl/egs/yesno/s5
+### Audio ###
+*.aif
+*.iff
+*.m3u
+*.m4a
+*.mid
+*.mp3
+*.mpa
+*.ra
+*.wav
+*.wma
+
+### Video ###
+*.3g2
+*.3gp
+*.asf
+*.asx
+*.avi
+*.flv
+*.mov
+*.mp4
+*.mpg
+*.rm
+*.swf
+*.vob
+*.wmv
+
+# End of https://www.gitignore.io/api/video,audio

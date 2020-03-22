@@ -2,10 +2,15 @@
     "fileheader.configObj": {
         "createFileTime": true,
         "language": {
-            "languagetest": {
-                "head": "/$$",
-                "middle": " $ @",
-                "end": " $/"
+            "gitattributes":{
+                "head":"### ",
+                "middle":" # @",
+                "end":"### "
+            },
+            "gitignore":{
+                "head":"### ",
+                "middle":"## @",
+                "end":"### "
             }
         },
         "autoAdd": true,
@@ -51,7 +56,7 @@
         "CheckFileChange": false
     },
     "fileheader.customMade": {
-        "Github":"https://github.com/Certseeds",
+        "Github":"https://github.com/Certseeds/CS310_NLP_ASR",
         "Organization": "SUSTech",
         "Author": "nanoseeds",
         "Date": "Do not edit",
