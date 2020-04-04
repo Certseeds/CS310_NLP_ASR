@@ -1,11 +1,29 @@
 <!--
- * @Author: your name
+ * @Github: https://github.com/Certseeds/CS310_NLP_ASR
+ * @Organization: SUSTech
+ * @Author: nanoseeds
  * @Date: 2020-04-04 18:18:03
- * @LastEditTime: 2020-04-04 18:53:23
  * @LastEditors: nanoseeds
- * @Description: In User Settings Edit
- * @FilePath: \Assignment_1\Analysis.md
+ * @LastEditTime: 2020-04-04 18:57:43
+### CS310_NLP_ASR
+    # Copyright (C) 2020 Certseeds
+
+    # CS310_NLP_ASR is free software: you can redistribute it and/or modify
+    # it under the terms of the GNU Affero General Public License as
+    # published by the Free Software Foundation, either version 3 of the
+    # License, or (at your option) any later version.
+
+    # CS310_NLP_ASR is distributed in the hope that it will be useful,
+    # but WITHOUT ANY WARRANTY; without even the implied warranty of
+    # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    # GNU Affero General Public License for more details.
+
+    # You should have received a copy of the GNU Affero General Public License
+    # along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ ###
  -->
+
+
 ## Q1
 + 首先,有三个参数,都是文件,1&2是输入,3是输出.
 + 所以,先判断参数数量,然后清空${3},为写入做准备.
